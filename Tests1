@@ -1,0 +1,9 @@
+Flow:
+git status
+git checkout -b My3dBranch
+git push origin My3dBranch
+git branch -a
+git add -A
+git commit -m "added a file Test1.txt"
+git log -3
+git checkout master
